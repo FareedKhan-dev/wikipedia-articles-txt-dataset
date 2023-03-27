@@ -1,0 +1,65 @@
+ChatGPT is a powerful new AI chatbot that is quick to impress, yet plenty of people have pointed out that it has some serious pitfalls. Ask it anything you like, and you will receive an answer that sounds like it was written by a human, having learned its knowledge and writing skills from being trained on mass amounts of data across the internet.
+
+Just like the internet, however, the line between truth and fantasy is certainly fickle, and ChatGPT is guilty of getting it wrong on more than one occasion. With ChatGPT set to change our future, here are some of our biggest concerns.
+
+ChatGPT is a large language model that was designed to produce natural human language. Much like having a conversation with someone, you can talk to ChatGPT, and it will remember things you have said in the past while also being capable of correcting itself when challenged.
+
+It was trained on all sorts of text from the internet, think Wikipedia, blog posts, books, and academic articles. That means that, alongside responding to you in a human-like way, it can recall information about our present-day world, plus pull up historical information from our past.
+
+Learning how to use ChatGPT is simple, and it's easy to be fooled into thinking that the AI system performs without any trouble. However, in the months that followed its release, people across the world pushed the AI chatbot to its limits to reveal some key problems.
+
+It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong on more than one occasion.
+
+OpenAI knows about this limitation, writing that: "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers." This "hallucination" of fact and fiction, as it's been referred to, is especially dangerous when it comes to things like medical advice, or getting the facts right on key historical events.
+
+Unlike other AI assistants like Siri or Alexa, ChatGPT doesn't use the internet to locate answers. Instead, it constructs a sentence word by word, selecting the most likely "token" that should come next, based on its training. In other words, ChatGPT arrives at an answer by making a series of guesses, which is part of the reason it can argue wrong answers as if they were completely true.
+
+While it's great at explaining complex concepts, making it a powerful tool for learning, it's important not to believe everything it says. ChatGPT isn't always correct—at least, not yet.
+
+ChatGPT was trained on the collective writing of humans across the world, past and present. Unfortunately, this means that the same biases that exist in the real world can also appear in the model.
+
+ChatGPT has been shown to produce some terrible answers that discriminate against gender, race, and minority groups, something which the company is trying to mitigate.
+
+One way to explain this issue is to point to the data as the problem, blaming humanity for the biases that are embedded on the internet and beyond. But part of the responsibility also lies with OpenAI, whose researchers and developers select the data that is used to train ChatGPT.
+
+Once again, OpenAI knows this is an issue and have said that they are addressing what they call "biased behavior" by collecting feedback from users who are encouraged to flag ChatGPT outputs that are bad.
+
+With the potential to cause harm to people, you could argue that ChatGPT shouldn't have been released to the public before these problems were studied and resolved. But a race to be the first company to release the most powerful AI tools might be enough for OpenAI to throw caution to the wind.
+
+By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet— was released in September 2022. However, it was purposely kept behind closed doors because of similar safety concerns.
+
+Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. It was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
+
+The dust is yet to settle after the rapid development and deployment of ChatGPT and the underlying technology behind it is already being stitched into a number of commercial apps. Among the apps which have integrated GPT-4 there is Duolingo and Khan Academy.
+
+The former is a language learning app, while the latter is a diverse educational learning tool. Both offer what is essentially an AI tutor, either in the form of an AI-powered character that you can talk to in the language you are learning. Or as an AI tutor that can give you tailored feedback on your learning.
+
+On the one hand, this could change the way we learn, potentially making education more accessible, and the learning process a little bit easier. But the downside is, this takes away jobs that have been held by humans for a long time.
+
+Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means there are multiple industries facing the same problem. From education to illustration to customer service roles, ChatGPT, and its underlying technology is going to drastically reshape our modern world.
+
+You can ask ChatGPT to proofread your writing or point out how to improve a paragraph. Or you can remove yourself from the equation entirely and ask ChatGPT to do all the writing for you.
+
+Teachers have experimented with feeding English assignments to ChatGPT and have received answers that are better than what many of their students could do. From writing cover letters to describing major themes in a famous work of literature, ChatGPT can do it all without hesitation.
+
+ChatGPT explains the themes in the novel Neuromancer by William Gobson
+That begs the question: if ChatGPT can write for us, will students need to learn to write in the future? It might seem like an existential question, but when students start using ChatGPT to help write their essays, schools will have to think of an answer fast. The rapid deployment of AI in recent years is set to shock many industries, and education is just one of them.
+
+Earlier, we mentioned how incorrect information by ChatGPT can cause real-world harm, with one example being wrong medical advice. But there are other concerns too.
+
+The speed at which natural-sounding text can be generated makes it a breeze for scammers pretending to be someone you know on social media. Likewise, spotting a phishing email designed to extract sensitive details from you, is streamlined, with the added benefit that ChatGPT can produce text that is free of grammatical errors—what used to be an obvious red flag.
+
+Spreading fake information is a serious concern too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, is certainly going to make information on the internet even more questionable.
+
+
+The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users started flooding the site with answers that they asked ChatGPT to generate.
+
+Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were simply not correct. To avoid the website being damaged, a ban was placed on all answers that were generated using ChatGPT.
+
+With great power comes great responsibility, and OpenAI holds a lot of power. It's one of the first AI companies to truly shake up the world with not one, but multiple generative AI models, including Dall-E 2, GPT-3, and GPT-4.
+
+OpenAI chooses what data is used to train ChatGPT, yet this information is not available to the public. We simply don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the architecture of the system looks like in detail.
+
+While OpenAI considers safety to be a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. Whether you think that the code should be made open source, or agree that it should keep parts of it a secret, there isn't much we can do about it.
+
+At the end of the day, we must blindly trust that OpenAI will research, develop, and use ChatGPT responsibly. Whether we agree with the methods or not, OpenAI will continue developing ChatGPT according to its own goals and ethical standards.
